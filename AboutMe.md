@@ -24,3 +24,22 @@ Here we are creating table with three colums contains country reason for travell
 >Lucy: “There's just two things keeping me from dancing in that show.”
 Fred: “Your feet?”
 *Lucy (Lucille Ball) *
+
+----------
+# Code Fencing 
+>Handling # uri fragments as regular requests
+[link to the article](https://webmasters.stackexchange.com/questions/140981/handling-uri-fragments-as-regular-requests)
+
+```
+// Get the URL-path, less the slash prefix
+const id = location.pathname.substring(1);
+
+// Get the HTML "page" element whose ID is passed in the URL.
+const element = document.getElementById(id);
+if (element) {
+    element.scrollIntoView();
+}
+```
+[link to the code snipet](https://webmasters.stackexchange.com/questions/140981/handling-uri-fragments-as-regular-requests)
+
+
