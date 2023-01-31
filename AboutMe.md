@@ -16,4 +16,11 @@ Here we are creating table with three colums contains country reason for travell
 |Italy | Colossseeum | 15 days|
 
 
+--------------------
 
+>There is no sunrise so beautiful that it is worth waking me up to see it.”
+*―Mindy Kaling *
+
+>Lucy: “There's just two things keeping me from dancing in that show.”
+Fred: “Your feet?”
+*Lucy (Lucille Ball) *
